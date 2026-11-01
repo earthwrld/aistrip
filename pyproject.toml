@@ -36,9 +36,9 @@ dependencies = [
 aistrip = "aistrip.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/aistrip"
-Repository = "https://github.com/yourusername/aistrip"
-"Bug Tracker" = "https://github.com/yourusername/aistrip/issues"
+Homepage = "https://github.com/earthwrld/aistrip"
+Repository = "https://github.com/earthwrld/aistrip"
+"Bug Tracker" = "https://github.com/earthwrld/aistrip/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/aistrip"]
