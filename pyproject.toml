@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "CLI tool to detect and remove AI metadata (EXIF, XMP, C2PA) from images — stop Instagram from auto-labeling your photos as AI content."
 readme = "README.md"
 license = { file = "LICENSE" }
-authors = [{ name = "Your Name", email = "you@example.com" }]
+authors = [{ name = "earthwrld" }]
 keywords = ["ai", "metadata", "c2pa", "exif", "xmp", "instagram", "canva"]
 classifiers = [
     "Development Status :: 3 - Alpha",
